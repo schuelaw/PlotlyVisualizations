@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/schuelaw/PlotlyVisualizati
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Here's a test of html includes ###
+Plotly Exported Choropleth
+{% include_relative Plotly/cont_choro_us.html %}
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
