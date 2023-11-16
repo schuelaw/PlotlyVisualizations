@@ -8,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Plotly Exported Choropleth
 {% include_relative Plotly/cont_choro_us.html %}
 
+### Here's a test of html includes ###
+Plotly Exported Choropleth
+{% include_relative Plotly/Oct10.html %}
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
