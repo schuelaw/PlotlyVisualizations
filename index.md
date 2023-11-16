@@ -5,11 +5,7 @@ You can use the [editor on GitHub](https://github.com/schuelaw/PlotlyVisualizati
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Here's a test of html includes ###
-Plotly Exported Choropleth
-{% include_relative Plotly/cont_choro_us.html %}
-
-### Here's a test of html includes ###
-Plotly Exported Choropleth
+Plotly Exported Oct 10, 2023 Location Data
 {% include_relative Plotly/Oct10.html %}
 
 ### Markdown
